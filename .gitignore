@@ -10,8 +10,10 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 
+# visual scripting tool Ludiq
+UnityBasics/[Aa]ssets/Ludiq
 # Never ignore Asset meta data
-!/[Aa]ssets/**/*.meta
+!UnityBasics/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
